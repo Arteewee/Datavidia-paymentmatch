@@ -1,5 +1,5 @@
 # ShopeeNDSC2020-payment-match-and-market-basket
-This project was created when I and my team participated in a competition organized by Shopee.
+This project was created when I and my team participated in a competition organized by Shopee.   
 There Two question the first one is to calculate the confidence values for all the association rules provided in the rules.csv file   
 The Second one is to match the Bank Statement IDs to the Checkout IDs
 
